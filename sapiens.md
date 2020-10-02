@@ -62,3 +62,17 @@ In other words, masculine and feminine qualities are being set by our own imagin
 
 Sex (male vs. female) is a biological cateogry.
 Gender (men vs. women) is a social category.
+
+## Questions
+1. White europeans created hierarchy to keep slaves under control. aryans created caste system in india to maintain authority. they used hierarchy and myths to convince its people that it is whats best for them. 
+What myths are WE being told today to keep us under control?
+- privacy, edward snowden
+
+2. What we believe as natural behavior doesn't actually have to do anything with biology.  what are some other natural traits that we are being told as unnatural?
+
+3. The author talks about the vicious circle. A chance occurrence in history creates hierarchy, but then that perpetuates into discriminatory laws. Which results in poverty/lack of education => cultural prejudices => more discriminatory laws.
+
+What steps can we take to mitigate the vicious cycle of discrimination?
+- men vs. women
+- rich vs. poor
+- race
