@@ -51,6 +51,8 @@ In history, people everywhere have divided themselves into men and women. And al
 
 Some of the cultural, legal, political disparities between men and women reflect the obvious biological differences. But most of the other masculine/feminine attributes that societies associate with men and women lack a biological basis.
 
+e.g. Ancient Athenians thought having a womb makes a person unfit for professions such as politicial leader, philosopher, orator, artist or merchant. An individual with a womb had no independent legal status and was forbidden from a lot of things. Clearly it has no basis in biology.
+
 e.g. Modern greeks view heterosexuality as a biological reality. But from a biological perspective, nothing is unnatural. Whatever is possible is by definition also natural. A truly unnatural behavior, one that goes against the laws of nature, simply cannot exist, so it would need no prohibition.
 
 In fact, our concepts of 'natural' and 'unnatural' are not from biology, but from Christian theology. The theological meaning of 'natural' is: in accordance with the intentions of the God who created nature.
