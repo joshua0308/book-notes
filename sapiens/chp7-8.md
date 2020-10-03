@@ -29,6 +29,7 @@ Examples include:
 - whites vs. blacks
 - rich vs. poor
 - men vs. women
+
 The belief that they are different is rooted in fiction, yet it is an iron rule of history that every imagined hierarchy disavows its fictional origins and claims to be natural and inevitable. 
 
 In most cases the hierarchy originated as the result of a set of accidental historical circumstances and was then perpetuated and refined over many generations.
@@ -37,6 +38,7 @@ Europeans imported slaves from Africa to America because of the following accide
 1. Africa was close so it was cheaper
 2. Africa already had a well-developed slave trade
 3. Africans were immune to diseases
+
 But the hierarchy of ruling cast of white Europeans and a subjugated cast of black Africans was further perpetuated by religious and scientific myths that served to justify the division. 
 Even after the abolition, racist myths that justified slavery persisted and the separation of the races was maintained by racist legislation and social custom.
 
@@ -64,13 +66,16 @@ Sex (male vs. female) is a biological cateogry.
 Gender (men vs. women) is a social category.
 
 ## Questions
-1. White europeans created hierarchy to keep slaves under control. aryans created caste system in india to maintain authority. they used hierarchy and myths to convince its people that it is whats best for them. 
+1. White europeans created hierarchy to keep slaves under control. Aryans created caste system in india to maintain authority. They used hierarchy and myths to convince its people that it is whats best for them. 
 What myths are WE being told today to keep us under control?
-- privacy, edward snowden
+- Privacy, we are told that the government needs to infringe upon our privacy to protect us against terrorist attacks. But is there an ulterior motive to keep citizens under control by keeping an eye on our activities 24/7? edward snowden 
+- Capitalism, we are told to work hard to climb the ladder. Is that just a scheme set up by rich people in order to make us work for them? 
+- Freedom
 
-2. What we believe as natural behavior doesn't actually have to do anything with biology.  what are some other natural traits that we are being told as unnatural?
+2. What we believe as natural behavior doesn't actually have to do anything with biology. In most cases, "biology enables, culture forbids." What are some other natural traits that we are being told as unnatural?
+- Is changing gender scientifically unnatural?
 
-3. The author talks about the vicious circle. A chance occurrence in history creates hierarchy, but then that perpetuates into discriminatory laws. Which results in poverty/lack of education => cultural prejudices => more discriminatory laws.
+3. The author talks about the vicious circle. A chance occurrence in history creates hierarchy, which then that perpetuates into discriminatory laws, resulting in poverty/lack of education => cultural prejudices => more discriminatory laws. 
 
 What steps can we take to mitigate the vicious cycle of discrimination?
 - men vs. women
