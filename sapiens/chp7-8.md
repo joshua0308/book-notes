@@ -77,7 +77,7 @@ What myths are WE being told today to keep us under control?
 
 3. The author talks about the vicious circle. A chance occurrence in history creates hierarchy, which then that perpetuates into discriminatory laws, resulting in poverty/lack of education => cultural prejudices => more discriminatory laws. 
 
-What steps can we take to mitigate the vicious cycle of discrimination?
+4. What steps can we take to mitigate the vicious cycle of discrimination?
 - men vs. women
 - rich vs. poor
 - race
