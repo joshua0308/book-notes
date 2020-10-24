@@ -1,3 +1,1 @@
-# Book Notes by Josh
-
-[Sapiens](sapiens/README.md)
+## [Sapiens by Yuval Noah Harari](sapiens/README.md)

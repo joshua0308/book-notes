@@ -1,6 +1,8 @@
-[Chapters 07-08](07-08.md)
+## Sapiens
 
-[Chapters 09-10](09-10.md)
+[Chapters 7-8](07-08.md)
+
+[Chapters 9-10](09-10.md)
 
 [Chapters 11-12](11-12.md)
 
