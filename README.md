@@ -2,4 +2,4 @@
 
 ## [Grokking Algorithms by Aditya Bhargava](grokking-algorithms/README.md)
 
-## [Kubernetes](kubernetes/README.md)
+## [Kubernetes by Dan Wahlin](kubernetes/README.md)
